@@ -3,8 +3,8 @@ Improving C++ Skills
 
 
 Set Up Git:
-git config --global user.name "Your Name"
-git config --global user.email "youremail@domain.com"
+git config --global user.name "LaLu"
+git config --global user.email "gigalfc@gmail.com"
 
 other commands
 git clone (url)
